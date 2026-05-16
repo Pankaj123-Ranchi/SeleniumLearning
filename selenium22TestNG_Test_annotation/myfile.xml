@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name = "mysuite">
+
+   <test name = "my tests">
+   
+      <classes>
+           <class name = "selenium22TestNG_Test_annotation.OrangeHRMTest"/>
+           <class name = "selenium22TestNG_Test_annotation.FirstTestCase"/>
+      </classes>
+   </test>
+</suite>
